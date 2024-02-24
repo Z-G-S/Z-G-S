@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+My name is Zak Sutherland and I'm a 2nd Year Business Analytics with Placement Year student at the University of Southampton. My GitHub contains a variety personal projects and projects that I have completed as part of my degree!
 
 
 
